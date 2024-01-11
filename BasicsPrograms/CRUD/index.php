@@ -79,9 +79,6 @@ mysqli_close($conn);
             }
             ?>
         </tbody>
-        <tfoot>
-            
-        </tfoot>
     </table>
 </div>
    
